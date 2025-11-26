@@ -1,0 +1,18 @@
+# Ignorar imágenes comunes
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.webp
+*.bmp
+*.tif
+*.tiff
+*.ico
+*.psd
+
+# Carpetas comunes de imágenes
+/images/
+/img/
+/assets/images/
+/static/images/

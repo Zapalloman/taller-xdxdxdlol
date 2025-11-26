@@ -1,5 +1,5 @@
 # Ignorar imágenes comunes
-*.png
+
 *.jpg
 *.jpeg
 *.gif
@@ -11,8 +11,5 @@
 *.ico
 *.psd
 
-# Carpetas comunes de imágenes
-/images/
-/img/
-/assets/images/
-/static/images/
+centroides_clusters.csv
+congestion_con_clusters.csv
